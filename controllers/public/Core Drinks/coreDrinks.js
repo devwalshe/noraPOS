@@ -16,7 +16,7 @@ function nameShortener(name){
 }
 
 let heroku = 'https://coffee-trainer.herokuapp.com/api/coredrinks'
-let local = 'https://norapos-m11gzjiv2-imwalshe.vercel.app/api/coredrinks'
+let local = 'https://norapos.vercel.app/api/coredrinks'
 async function apiRequest(){
     
     try{
